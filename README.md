@@ -1,11 +1,11 @@
 # Proyecto_Corte_1_Grupo_11
 MVP desarrollado en Python para el Taller Corte 1 - Programación y Decisiones
 ---
-# Startup: DataLog Solutions
+# Startup: LogicFlow
 
 ## Contexto
 
-En el entorno empresarial colombiano 2026, las decisiones deben estar respaldadas por análisis lógico y herramientas tecnológicas. Nuestra Startup desarrolla módulos funcionales en Python que permiten optimizar procesos logísticos y financieros.
+En el entorno empresarial colombiano 2026, las decisiones deben estar respaldadas por análisis lógico y herramientas tecnológicas. Somos una Startup enfocada en desarrollar soluciones tecnológicas que apoyen la toma de decisiones en logística y economía dentro del contexto colombiano.
 
 Este proyecto corresponde al Taller Corte 1 de la asignatura Programación y Decisiones.
 
