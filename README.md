@@ -1,5 +1,6 @@
 # Proyecto_Corte_1_Grupo_11
 MVP desarrollado en Python para el Taller Corte 1 - Programación y Decisiones
+---
 # Startup: DataLog Solutions
 
 ## Contexto
@@ -8,13 +9,11 @@ En el entorno empresarial colombiano 2026, las decisiones deben estar respaldada
 
 Este proyecto corresponde al Taller Corte 1 de la asignatura Programación y Decisiones.
 
----
 
 ## MVP - Módulo Lógico Central
 
 Se desarrollaron dos funcionalidades principales en consola utilizando Python:
 
----
 
 ### RETO 1: Ruta-Óptima (Logística)
 
@@ -28,9 +27,8 @@ Sistema que permite:
 - Calcular el costo de envío (Tarifa base x Kg)
 - Generar un manifiesto de carga ordenado por peso
 
-Este módulo optimiza la clasificación previa al despacho de mercancía.
+Este reto optimiza la clasificación previa al despacho de mercancía.
 
----
 
 ### RETO 3: Dolar-Track (Economía)
 
@@ -43,13 +41,12 @@ Sistema que permite:
   - Por debajo del promedio (Alerta de Compra)
 - Calcular la volatilidad (Máximo - Mínimo)
 
-Este módulo apoya la toma de decisiones financieras.
+Este reto apoya la toma de decisiones financieras.
 
----
 
 ## Integrantes
 
 - Paula Andrea Arciniegas Cárdenas
 - Valerias Morales
 
----
+
